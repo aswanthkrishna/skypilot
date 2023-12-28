@@ -50,7 +50,7 @@ _SPOT_STATUS_CACHE = '~/.sky/spot_status_cache.txt'
 _LOG_STREAM_CHECK_CONTROLLER_GAP_SECONDS = 5
 
 _JOB_WAITING_STATUS_MESSAGE = ('[bold cyan]Waiting for the task to start'
-                               '{status_str}.[/] It may take a few minutes.')
+                               '{status_str}.[/] It may take a few minutes. You may safely stop this program.')
 _JOB_CANCELLED_MESSAGE = (
     '[bold cyan]Waiting for the task status to be updated.'
     '[/] It may take a minute.')
